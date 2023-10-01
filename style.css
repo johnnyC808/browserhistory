@@ -1,38 +1,11 @@
-h1, h2 {
-  font-family: 'Oswald', sans-serif;
+a.nav-link{
+  color: white;
 }
 
-body{
-  font-family: 'Open Sans', sans-serif;
+.push-down {
+  margin-top: 20px;
+}
+
+h1, h2, title{
   color: darkblue;
-  margin: 10px 50px;
-  background-color: ivory;
 }
-
-img{
-  float: left;
-  margin-right: 10px;
-}
-
-.L{
-  float: left;
-  width: 300px;
-  margin-right: 50px;
-}
-
-.C{
-  margin-left: 300px;
-  margin-right: 300px;
-}
-
-.R{
-  margin-left: 50px;
-  float: right;
-  width: 300px;
-}
-
-li {
-  display: inline;
-  margin-right: 150px;
-}
-
